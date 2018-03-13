@@ -1,0 +1,68 @@
+Languages I Will Focus On:
+--------------------------
+C
+C++
+C#
+F#
+Java
+JavaScript
+Objective-C
+Python2
+Python3
+R
+Ruby
+TypeScript
+
+Why These Languages?
+--------------------
+I limit myself in the interest of time. 
+I prioritize these languages because of a mix
+of popularity and staying power in the field. 
+The C Family, JavaScript/TypeScript, Ruby, and Java covers
+most WebDev needs. F# to throw in some functional
+programming. R and Python for for most data jockey needs.
+There are other languages on the list that also fit those
+criteria and their omitted as personal taste preference
+(viz. CoffeeScript).
+
+
+Available Languages:
+--------------------
+Clojure
+CoffeeScript
+CommonLisp
+C
+C++
+C#
+D
+Dart
+Elixir
+Erlang
+Free Pascal
+Fortran
+F#
+Go
+Groovy
+Haskell
+Java
+JavaScript
+Julia
+Kotlin
+Lua
+Nim
+Objective-C
+OCaml
+GNU Octave
+Perl
+PHP
+Python2
+Pyhton3
+R
+Ruby
+Rust
+Scala
+Smalltalk
+Swift3
+Tcl
+TypeScript
+VisualBasic
